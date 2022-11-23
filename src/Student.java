@@ -1,5 +1,5 @@
 public class Student {
-    public static  int autoID = 0;
+    public static  int autoID = 1;
     private int id;
     private String name;
     private String address;
